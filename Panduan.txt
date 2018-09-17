@@ -1,0 +1,3 @@
+1.Copy folder "mplussoft" ke xampp/htdocs/
+2.import database mplus ke dalam mysql
+3.buka http://localhost/mplussoft/ 
